@@ -1,0 +1,27 @@
+# Ignore compiled class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+out/
+
+# Eclipse settings (if you ever use Eclipse)
+*.classpath
+*.project
+*.settings/
+
+# VS Code settings
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
