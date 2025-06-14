@@ -19,7 +19,7 @@ A modern, customizable password generator with a beautiful GUI built using Java 
 
 ## 📸 Screenshot
 
-![App Screenshot]([screenshots/output.png](https://github.com/Manoj-2424150118/SecurePasswordGenerator/blob/main/output.png))
+![App Screenshot](https://github.com/Manoj-2424150118/SecurePasswordGenerator/blob/main/output.png)
 
 ---
 
